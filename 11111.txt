@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 print("labadabadubdub")
+print("oooOMMGMFFFgggg")
+print("labadabadubdub;")
+print("watchout")
